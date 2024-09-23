@@ -9,4 +9,7 @@
  
 """
 
-from moonlib import Cmoon, Smoon, Bmoon, Emoon
+from .moonlib import Cmoon
+from .moonlib import Smoon
+from .moonlib import Bmoon
+from .moonlib import Emoon
