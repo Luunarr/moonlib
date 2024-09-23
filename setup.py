@@ -1,3 +1,14 @@
+"""
+ ._______________________________________________.
+ |                                               |
+ | Lunar : https://github.com/Luunarr            |
+ |_______________________________________________|
+ |                                               |
+ | MoonLib  : https://github.com/Luunarr/moonlib |
+ |_______________________________________________|
+ 
+"""
+
 from setuptools import setup, find_packages
 
 setup(
