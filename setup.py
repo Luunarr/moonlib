@@ -16,7 +16,6 @@ setup(
     version='0.1.0', 
     author='Lunar',
     description='Un module pour les couleurs et les emojis',
-    long_description=open('README.md').read(), 
     long_description_content_type='text/markdown',
     url='https://github.com/Luunarr/moonlib', 
     packages=find_packages(where='src'), 
