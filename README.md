@@ -58,6 +58,6 @@ pip install .
 
 ## `🔗` Links
 - **Lunar: [GitHub Repository](https://github.com/Luunarr)**
-- **Moon: [GitHub Repository](https://github.com/Luunarr/moonlib)**
+- **Moonlib: [GitHub Repository](https://github.com/Luunarr/moonlib)**
 
 **Happy Coding! 🎉🌙**
