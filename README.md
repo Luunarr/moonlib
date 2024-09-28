@@ -54,7 +54,6 @@ pip install .
 ```python
 from moonlib import *
 ```
-or 
 ```python
 from moonlib import Cmoon, Smoon, Bmoon, Emoon
 ```
