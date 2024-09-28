@@ -50,6 +50,15 @@ cd moonlib
 pip install .
 ```
 
+## `🌚` Python Import 
+```python
+from moonlib import *
+```
+or 
+```python
+from moonlib import Cmoon, Smoon, Bmoon, Emoon
+```
+
 ## `📜` License
 **This project is licensed under the MIT License.**
 
