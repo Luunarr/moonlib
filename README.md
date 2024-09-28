@@ -57,7 +57,7 @@ pip install .
 **Contributions are welcome! Please create a pull request for any improvements or bug fixes.**
 
 ## `🔗` Links
-- **Lunar: [GitHub Repository](https://github.com/Luunarr)**
-- **Moonlib: [GitHub Repository](https://github.com/Luunarr/moonlib)**
+- **Lunar: [Lunar](https://github.com/Luunarr)**
+- **Moonlib: [Repository Moonlib](https://github.com/Luunarr/moonlib)**
 
 **Happy Coding! 🎉🌙**
